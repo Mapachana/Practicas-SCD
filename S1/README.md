@@ -1,5 +1,5 @@
 # Cálculo de pi
-> Por: Ana Buendía Ruiz-Azuaga
+> Por: Mapachana
 ## Funciones
 Para resolver el problema se han creado funciones para el reparto de hebras (ya sea de forma cíclica o contigua), el cálculo de la integral (que también depende de cómo se repartieran las hebras), la función para el cálculo secuencial de la integral y, por último, la función f  integrar.
 ### Asignación de hebras
